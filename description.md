@@ -28,4 +28,4 @@ The optimized `/api/order-item/` endpoint was tested using `curl` and `time` to 
 - **User CPU Time:** 8ms
 - **System CPU Time:** 5ms
 
-These results confirm that the endpoint now responds in under 200ms, meeting the performance target. The optimizations have successfully reduced the response time from the original 5 seconds to just 39ms, representing a 99.2% improvement in performance
+These results confirm that the endpoint now responds in under 200ms, meeting the performance target. The optimizations have successfully reduced the response time from the original 5 seconds to just 39ms, representing a significant improvement in performance
